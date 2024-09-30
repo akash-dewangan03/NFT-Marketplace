@@ -19,8 +19,8 @@ function Footer() {
               </p>
             </Col>
             <Col>
-              <p>Copyright ⓒ {year} Not applicable: fork it </p>
-              <p>Yuvraj Singh Rajawat</p>
+              <p>Copyright ⓒ {year} </p>
+              <p>Akash Dewangan</p>
             </Col>
           </Row>
         </Container>
